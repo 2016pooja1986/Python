@@ -1,0 +1,16 @@
+#INDEXING AND SLICING OF A STRING
+str1 = 'I am'
+print("1. str1[3]=",str1[3])
+print("2. str1[-2]=",str1[-2])
+print("3. str1[3:6]=",str1[3:6])
+print("4. str1[:3]=",str1[:3])
+print("5. str1[:]=",str1[:])
+print("6. str1[-7:]=",str1[-7:])
+print("7. str1[-1:-8]=",str1[-1:-8])
+print("8. str1[0:7:2]=",str1[0:7:2])
+print("9. str1[0:3]=",str1[0:3])
+print("10.str1[0:]=",str1[0:])
+print("11.str1[-7:7]=",str1[-7:7])
+print("12.str1[-1:-8:-1]=",str1[-1:-8:-1])
+print("13.str1[0:50]=",str1[0:50])
+print("14.str1[3:7:-1]=",str1[3:7:-1])
